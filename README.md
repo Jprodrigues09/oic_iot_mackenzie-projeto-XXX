@@ -1,14 +1,12 @@
 # Objetos Inteligentes Conectados 1 sem. 2018
 
 ## Turma XXX
-## Projeto: "nome do projeto"
+## Projeto: "Detector de Batidas"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
+* João Pedro Rodrigues - 31609945
+* Paulo Francisco Chen - 31613837
+
 _______________________________________
 Obs:
 
